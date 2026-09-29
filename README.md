@@ -1,3 +1,5 @@
+![Banner](./ChatGPT%20Image%2028%20de%20set.%20de%202026%2C%2022_25_22.png)
+
 # 👋 Olá! Eu sou o Lucas Luque Cabral
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas na FIAP**
