@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Lucas Luque Cabral
 
-<!--
-**LucasCabral0603/LucasCabral0603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas na FIAP**
 
-Here are some ideas to get you started:
+💻 Interessado em **Desenvolvimento de Software, Back-end e Full Stack**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Utilizo este espaço para compartilhar projetos acadêmicos e pessoais e registrar minha evolução na área de tecnologia.
+
+---
+
+## 👨🏻‍💻 Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP e formado como Técnico em Informática pelo SENAC.
+
+Durante minha formação, venho desenvolvendo conhecimentos em programação, desenvolvimento web, banco de dados e Inteligência Artificial, colocando em prática o que aprendo por meio de projetos.
+
+Atualmente, estou estudando e praticando:
+
+- 🐍 Python
+- ☕ Java
+- 🗄️ SQL
+- 🌐 HTML & CSS
+- 🔧 Git & GitHub
+- 🤖 Inteligência Artificial
+- 🗃️ Banco de Dados
+
+---
+
+## 📚 Atualmente estudando
+
+🎓 Análise e Desenvolvimento de Sistemas — FIAP
+
+💻 Desenvolvimento de Software
+
+🤖 Inteligência Artificial
+
+🗄️ Banco de Dados
+
+🐍 Python e Java
+
+---
+
+## 📫 Contato
+
+💼 LinkedIn: [Lucas Cabral](https://www.linkedin.com/in/lucas-cabral-660940350/)
+
+📂 GitHub: [LucasCabral0603](https://github.com/LucasCabral0603)
